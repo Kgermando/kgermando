@@ -1,25 +1,25 @@
-# 👋 Salut, je suis [Votre Nom]
+# 👋 Hi, I'm [Your Name]
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Développeur+Full+Stack;Passionné+de+Technologie;Toujours+en+apprentissage)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Technology+Enthusiast;Always+Learning)
   
 </div>
 
-## 🚀 À propos de moi
+## 🚀 About Me
 
-Développeur fullStack passionné avec une expertise en développement web et logiciel. J'aime créer des solutions innovantes et résoudre des problèmes complexes.
+Passionate fullStack developer with expertise in web and software development. I love creating innovative solutions and solving complex problems.
 
-- 🔭 Je travaille actuellement sur **[Nom du projet]**
-- 🌱 J'apprends actuellement **[Nouvelle technologie]**
-- 👯 Je cherche à collaborer sur **[Type de projets]**
-- 💬 Demandez-moi à propos de **[Vos expertises]**
+- 🔭 I'm currently working on **[Project Name]**
+- 🌱 I'm currently learning **[New Technology]**
+- 👯 I'm looking to collaborate on **[Type of Projects]**
+- 💬 Ask me about **[Your Expertise]**
 - 📫 Contact: **[germainkataku@ictech-drc.com]**
-- ⚡ Fun fact: **[Quelque chose d'intéressant sur vous]**
+- ⚡ Fun fact: **[Something Interesting About You]**
 
-## 🛠️ Langages et Technologies
+## 🛠️ Languages and Technologies
 
-### Langages de Programmation
+### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -44,7 +44,7 @@ Développeur fullStack passionné avec une expertise en développement web et lo
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### Bases de Données
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -59,7 +59,7 @@ Développeur fullStack passionné avec une expertise en développement web et lo
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-### Outils & Autres
+### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -67,69 +67,50 @@ Développeur fullStack passionné avec une expertise en développement web et lo
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-## 💼 Expérience Professionnelle
+## 💼 Professional Experience
 
 ### 🏢 [Innovation Creativity Technology (ICTECH)] - [CEO]
-**[2024] - [Date fin ou Présent]**
-- 📌 Description de vos responsabilités et réalisations
-- 📌 Technologies utilisées: React, Node.js, PostgreSQL
-- 📌 Résultat: Amélioration de X% des performances
+**[2024] - [End Date or Present]**
+- 📌 Description of your responsibilities and achievements
+- 📌 Technologies used: React, Node.js, PostgreSQL
+- 📌 Result: X% performance improvement
 
-## 🏆 Compétences Clés
+## 🏆 Key Skills
 
 ```text
-💡 Développement Full Stack        ████████████████████ 100%
-💡 Architecture Logicielle          ██████████████████░░  90%
-💡 DevOps & CI/CD                   ████████████████░░░░  80%
-💡 Design Patterns                  ████████████████░░░░  80%
-💡 API RESTful & GraphQL            ██████████████████░░  90%
-💡 Tests & Qualité du Code          ████████████████░░░░  80%
-💡 Agile/Scrum                      ██████████████████░░  90%
-💡 Résolution de Problèmes          ████████████████████ 100%
+💡 Full Stack Development         ████████████████████ 100%
+💡 Software Architecture           ██████████████████░░  90%
+💡 DevOps & CI/CD                  ████████████████░░░░  80%
+💡 Design Patterns                 ████████████████░░░░  80%
+💡 RESTful API & GraphQL           ██████████████████░░  90%
+💡 Testing & Code Quality          ████████████████░░░░  80%
+💡 Agile/Scrum                     ██████████████████░░  90%
+💡 Problem Solving                 ████████████████████ 100%
 ```
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kgermando&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=radical&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgermando&layout=compact&theme=radical&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=radical&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kgermando&theme=radical&hide_border=true)
   
 </div>
 
-## 🚀 Projets Notables
+## 🤝 Contributing
 
-### 📱 [Nom du Projet 1](lien-github)
-Description courte du projet et de son impact. Technologies: React, Node.js, MongoDB
+I'm always open to interesting collaborations! Feel free to contact me if you have project ideas or if you'd like to contribute to one of my projects.
 
-### 🌐 [Nom du Projet 2](lien-github)
-Description courte du projet et de son impact. Technologies: Python, Django, PostgreSQL
-
-### 🔧 [Nom du Projet 3](lien-github)
-Description courte du projet et de son impact. Technologies: TypeScript, Next.js, AWS
-
-## 🏅 Certifications
-
-- 📜 **[Nom de la Certification]** - [Organisation] - [Année]
-- 📜 **[Nom de la Certification]** - [Organisation] - [Année]
-- 📜 **[Nom de la Certification]** - [Organisation] - [Année]
-
-
-## 🤝 Contribuer
-
-Je suis toujours ouvert aux collaborations intéressantes! N'hésitez pas à me contacter si vous avez des idées de projets ou si vous souhaitez contribuer à l'un de mes projets.
-
-## 📫 Me Contacter
+## 📫 Contact Me
 
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/votre-compte)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@exemple.com)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://votre-portfolio.com)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katakugermain@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.ictehc-drc.com)
   
 </div>
 
@@ -137,10 +118,10 @@ Je suis toujours ouvert aux collaborations intéressantes! N'hésitez pas à me 
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=VOTRE_USERNAME&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=kgermando&color=blueviolet&style=flat-square)
   
-  **"Le code est comme l'humour. Quand vous devez l'expliquer, c'est mauvais."** – Cory House
+  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
   
-  ⭐️ From [VOTRE_USERNAME](https://github.com/VOTRE_USERNAME)
+  ⭐️ From [KGERMANDO](https://github.com/kgermando)
   
 </div>
