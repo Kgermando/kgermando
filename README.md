@@ -67,8 +67,8 @@ Passionate fullStack developer with expertise in web and software development. I
 
 ## 💼 Professional Experience
 
-### 🏢 [Innovation Creativity Technology (ICTECH)] - [CEO]
-**[2024] - [End Date or Present]**
+### 🏢 Innovation Creativity Technology (ICTECH) - CEO
+** 2024 - End Date or Present**
 - 📌 Description of your responsibilities and achievements
 - 📌 Technologies used: React, Node.js, PostgreSQL
 - 📌 Result: X% performance improvement
