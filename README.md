@@ -86,7 +86,7 @@ Passionate fullStack developer with expertise in web and software development. I
 💡 Problem Solving                 ████████████████████ 100%
 ```
 
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics
 
 <div align="center">
   
@@ -96,7 +96,7 @@ Passionate fullStack developer with expertise in web and software development. I
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kgermando&theme=radical&hide_border=true)
   
-</div>
+</div> -->
 
 ## 🤝 Contributing
 
